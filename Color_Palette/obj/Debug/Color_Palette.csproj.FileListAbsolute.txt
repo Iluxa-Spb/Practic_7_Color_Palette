@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 7\Color_Palette\Color_Palette\bin\Debug\Color_Palette.exe.config
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 7\Color_Palette\Color_Palette\bin\Debug\Color_Palette.exe
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 7\Color_Palette\Color_Palette\bin\Debug\Color_Palette.pdb
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 7\Color_Palette\Color_Palette\obj\Debug\Color_Palette.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 7\Color_Palette\Color_Palette\obj\Debug\Color_Palette.Form1.resources
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 7\Color_Palette\Color_Palette\obj\Debug\Color_Palette.Properties.Resources.resources
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 7\Color_Palette\Color_Palette\obj\Debug\Color_Palette.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 7\Color_Palette\Color_Palette\obj\Debug\Color_Palette.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 7\Color_Palette\Color_Palette\obj\Debug\Color_Palette.exe
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 7\Color_Palette\Color_Palette\obj\Debug\Color_Palette.pdb
